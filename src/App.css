@@ -4,8 +4,8 @@
     height: calc(100vh - 64px);
 }
 
-form {
-    width: 45%;
+.ant-card {
+    width: 35%;
 }
 
 .ant-form-item-label > label {
